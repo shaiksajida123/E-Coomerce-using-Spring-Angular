@@ -195,4 +195,122 @@ and then the area equals width times length.
 
 Alrighty, so let's go ahead and move into our IDE,
 
-and let's test out this co
+and let's test out this co.
+      
+      
+      
+      
+    ***************************************Interface*******************************
+      So TypeScript supports interfaces.
+
+So we define an interface with a method contract
+
+and then the classes will implement
+
+the interface accordingly and a class can implement
+
+multiple interfaces in TypeScript.
+
+TypeScript can also use interfaces
+
+to support contracts with properties.
+
+So for examples of properties,
+
+see the link here on the slide.
+
+Okay, so let's go ahead and look at interfaces,
+
+and in particular, making use of interfaces
+
+with method contracts.
+
+All right, so we'll have this interface here for Coach.
+
+And so there's a method called getDailyWorkout().
+
+So all classes that implement the interface
+
+must implement the method getDailyWorkout().
+
+So here on the bottom left, we have the Cricket Coach,
+
+they'll give their own daily workout,
+
+and then the Golf Coach will give their own
+
+respective daily workout.
+
+And again, these are different workouts
+
+because these are different sports.
+
+So up top, I'll create my Coach interface.
+
+And I'll have a method here getDailyWorkout() string.
+
+There's no body, there's no implementation code.
+
+And then at the bottom left, I have my CricketCoach
+
+that implements Coach.
+
+So we're implementing the interface.
+
+And then we provide our method here getDailyWorkout().
+
+So we return "Practice your spin bowling technique."
+
+And then a similar thing here for GolfCoach.
+
+So GolfCoach implements Coach.
+
+And then getDailyWorkout() here says
+
+"Hit 100 balls at the golf range.".
+
+Now, let's kind of pull it all together
+
+with the main application.
+
+So on our Driver, we do our imports up top.
+
+Create myCricketCoach equals new CricketCoach().
+
+Now go console.log on getDailyWorkout().
+
+And a similar thing here for myGolfCoach
+
+equals a new GolfCoach, and then I call
+
+myGolfCoach.getDailyWorkout().
+
+And then this gives us the output here.
+
+So the first line is from CricketCoach,
+
+and then the second line is from the GolfCoach.
+
+Okay, so now let's create an array of Coaches.
+
+So in my ArrayDriver.cs, I have my two coaches created.
+
+Then I declare an array for coaches, initially empty.
+
+And I simply say theCoaches.push(myCricketCoach)
+
+and then push(myGolfCoach).
+
+And then I set up a for loop.
+
+So I have let tempCoach of theCoaches console.log
+
+tempCoach.getDailyWorkout().
+
+So this will print out the daily workout
+
+from each coach in our array.
+
+All right, let's go ahead and move into our IDE
+
+and let's write the code.
