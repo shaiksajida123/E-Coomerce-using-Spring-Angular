@@ -314,3 +314,32 @@ from each coach in our array.
 All right, let's go ahead and move into our IDE
 
 and let's write the code.
+**************************************************************************Angular**************************************************************************************
+      
+     
+     
+      
+      ![1](https://user-images.githubusercontent.com/66249630/147068060-6a39a752-57e0-4f68-ac5f-c7f2c3b7c52d.png)
+
+      
+      
+      
+      ![2](https://user-images.githubusercontent.com/66249630/147068081-537e67a8-dcb1-4b6c-a448-dda498a89d29.png)
+
+      
+      
+      
+      
+      ![3](https://user-images.githubusercontent.com/66249630/147068095-518031dc-08d3-47e4-acef-b8095e03ac78.png)
+
+      
+      ![4](https://user-images.githubusercontent.com/66249630/147068116-33e7e82f-8ff6-4d5d-8621-557927ff3729.png)
+
+      
+      
+      
+      
+      ![5](https://user-images.githubusercontent.com/66249630/147068131-7e67890e-d8c8-41e2-9a26-46856faaa389.png)
+![6](https://user-images.githubusercontent.com/66249630/147068168-793f34d3-dcff-4ece-9667-2d92ceef1fe3.png)
+
+      ![7](https://user-images.githubusercontent.com/66249630/147068190-820d3d2a-56f6-4d61-bfe3-cafca20ab54d.png)
